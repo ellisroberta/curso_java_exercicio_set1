@@ -9,5 +9,5 @@ distintos acessaram o site.
 
 ### Exemplo
 
-! [Exemple] (pictures/exemple.png)
+![Exemple](pictures/exemple.png)
 
